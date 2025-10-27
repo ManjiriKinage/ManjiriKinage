@@ -86,31 +86,6 @@
 
 ---
 
-### 💼 Featured Projects
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| 🌦️ **Weather-Based Recommendation System** | Smart weather forecast app suggesting clothes, food & activities | Python, Flask, OpenWeatherMap API, Bootstrap |
-| 🍽️ **Share a Plate** | Food donation platform connecting donors and receivers | HTML, CSS, JavaScript, Python (Flask) |
-| 🚗 **Predictive Parking Space Marketplace** | AI-driven parking system using ML & CV for real-time slot detection | Python, ML, IoT, OpenCV |
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManjiriKinage&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManjiriKinage&theme=tokyonight" alt="GitHub streak" />
-</p>
-
----
-
-### ✨ Fun Fact  
-> 🌸 “In every line of code, I find rhythm — turning logic into art and bugs into lessons.”  
-
----
-
 ### 🪶 Visitors
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ManjiriKinage&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="profile views" />
